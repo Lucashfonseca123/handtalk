@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "471679434337",
+    "project_id": "handstalk-d696e",
+    "storage_bucket": "handstalk-d696e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471679434337:android:49cae12372e5ef69237420",
+        "android_client_info": {
+          "package_name": "com.handtalktest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWZoh3YudzTS_S-gcrFNCWumF8SOFp5Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
